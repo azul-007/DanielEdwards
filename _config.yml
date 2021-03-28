@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Daniel Edwards"
   avatar : "/assets/images/dan.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Drones. Travel. Motorcycles. Boxing. And making a good cocktail."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
