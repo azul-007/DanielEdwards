@@ -1,4 +1,3 @@
-# Kioptrix Level 1
 ## Discovery
 - As always we start are search with netdiscover
 - <img width="637" alt="netdiscover" src="https://user-images.githubusercontent.com/15880042/112721521-98a69200-8eda-11eb-831b-6065769aa8b0.png">
