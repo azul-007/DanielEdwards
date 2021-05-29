@@ -1,5 +1,3 @@
-# Kioptrix Level 2
-
 Hello everyone! Today I'll be continuing my OSCP preparation with Kioptrix level 2!!
 
 
@@ -16,6 +14,9 @@ There's a webserver running on port 80, let's check that one first.
 
 After going through a list of SQL injections, finally found the one that worked!: admin' -- -
 
-After bypassing the login, we're presented with another dialog box to ping a machine on the network.
+After bypassing the login, we're presented with another dialog box to ping a machine on the network. Issuing the command.... ;ls -l enumerates the current
+directory and we see there are two files: index.php and pingit.php
+
 <img width="614" alt="ping" src="https://user-images.githubusercontent.com/15880042/114235512-4b9cd400-994e-11eb-827d-8957145092d3.png">
 
+<img width="398" alt="ls" src="https://user-images.githubusercontent.com/15880042/120052191-0b72dd00-bff2-11eb-8818-19d0b118ff00.png">
