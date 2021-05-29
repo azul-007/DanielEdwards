@@ -21,7 +21,7 @@ Issuing the command.... ;ls -l enumerates the current
 directory and we see there are two files: index.php and pingit.php
 <img width="398" alt="ls" src="https://user-images.githubusercontent.com/15880042/120052191-0b72dd00-bff2-11eb-8818-19d0b118ff00.png">
 
-Ok, so..we know that we can enumerate the contents of the server hosting this site. Let's see what if we have access to other directories/resources, namely */etc/passwd*. We have access! And if you look closely, towards the bottom, you will see two usernames! josh and harold
+Ok, so..we know that we can enumerate the contents of the server hosting this site. Let's see what if we have access to other directories/resources, namely **/etc/passwd**. We have access! And if you look closely, towards the bottom, you will see two usernames! **josh and harold**
 ![josh_harold](https://user-images.githubusercontent.com/15880042/120052459-6fe26c00-bff3-11eb-9be2-d75ff628129e.png)
 
 
