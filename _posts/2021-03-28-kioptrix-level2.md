@@ -2,6 +2,7 @@
 
 Hello everyone! Today I'll be continuing my OSCP preparation with Kioptrix level 2!!
 
+![Kioptrix](https://user-images.githubusercontent.com/15880042/120109606-1899e400-c138-11eb-8d99-d67c479d9570.jpg)
 
 Creator: [Kioptrix](https://www.vulnhub.com/author/kioptrix,8/)
 
