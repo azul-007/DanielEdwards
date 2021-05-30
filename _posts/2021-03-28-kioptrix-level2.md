@@ -59,6 +59,11 @@ On the victim, download the exploit script. Ensure to be in a directory where yo
 
 <img width="642" alt="wget" src="https://user-images.githubusercontent.com/15880042/120104528-d914cd00-c122-11eb-835b-9e95a035cb4a.png">
 
+Compile the exploit, excute it and HOUUUUUUSTON WE HAVE ROOT!
+
+<img width="416" alt="root" src="https://user-images.githubusercontent.com/15880042/120105000-24c87600-c125-11eb-82ac-2d00f4e6e209.png">
+
+
 
 
 
