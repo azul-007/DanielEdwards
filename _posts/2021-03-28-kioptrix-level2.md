@@ -1,4 +1,15 @@
+
+
 Hello everyone! Today I'll be continuing my OSCP preparation with Kioptrix level 2!!
+
+
+Creator: [Kioptrix](https://www.vulnhub.com/author/kioptrix,8/)
+
+Vulnhub Description
+> This Kioptrix VM Image are easy challenges. The object of the game is to acquire root access via any means possible (except actually hacking the VM server or  player). The purpose of these games are to learn the basic tools and techniques in vulnerability assessment and exploitation. There are more ways then one to successfully complete the challenges.
+
+
+# Table of Contents
 - [**Network Scanning**](#network-scanning)
   - [**IP Discovery**](#ip-discovery)
   - [**Nmap**](#nmap)
