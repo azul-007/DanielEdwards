@@ -47,6 +47,21 @@ Houston we have a shell!!!
 
 <img width="513" alt="shell" src="https://user-images.githubusercontent.com/15880042/120066283-f0c95400-c043-11eb-9773-2e08535d6e19.png">
 
+Now...on the victim machine, execute *uname -ar* to get the kernel version. After some googling turns out this is a CentOS box. Hop back on your attacker machine and use searchsploit to locate the appropriate script and download it to your attacker machine.
+
+<img width="1203" alt="searchsploit" src="https://user-images.githubusercontent.com/15880042/120104102-e03adb80-c120-11eb-9938-00a1a38096ec.png">
+
+Start SimpleHTTPServer to transfer the exploit to the victim machine
+
+<img width="636" alt="simplehttpserver" src="https://user-images.githubusercontent.com/15880042/120104489-a8cd2e80-c122-11eb-9074-a943c488417b.png">
+
+On the victim, download the exploit script. Ensure to be in a directory where you have write access!
+
+<img width="642" alt="wget" src="https://user-images.githubusercontent.com/15880042/120104528-d914cd00-c122-11eb-835b-9e95a035cb4a.png">
+
+
+
+
 
 
 
